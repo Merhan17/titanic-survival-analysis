@@ -72,3 +72,12 @@ Preprocessing:
 ### 1) Install dependencies
 ```bash
 pip install -r requirements.txt
+```
+Create a requirements.txt with:
+```bash
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+```
